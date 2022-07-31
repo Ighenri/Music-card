@@ -5,8 +5,6 @@
 
 
 ### Links
-
-- Solution URL: [Add solution URL here](http://127.0.0.1:5500/order-summary-component-main/index.html/)
 - Live Site URL: [Add live site URL here](https://mymusic-card.netlify.app/)
 
 ## My process
